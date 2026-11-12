@@ -3,7 +3,7 @@ Contributors: southlandtax
 Tags: property tax, calculator, residential
 Requires at least: 6.0
 Requires PHP: 8.0
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 
 County-based residential property tax savings estimator for Southland Tax.
@@ -13,6 +13,9 @@ County-based residential property tax savings estimator for Southland Tax.
 Provides the [southland_residential_calculator] shortcode and administrator-managed county estimate settings.
 
 == Changelog ==
+
+= 1.0.3 =
+* Published a test release to verify GitHub-powered WordPress updates.
 
 = 1.0.2 =
 * Hardened public request validation and malformed-input handling.

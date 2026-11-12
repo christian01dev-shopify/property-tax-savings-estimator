@@ -3,7 +3,7 @@
  * Plugin Name: Southland Residential Calculator
  * Plugin URI: https://github.com/christian01dev-shopify/property-tax-savings-estimator
  * Description: County-based residential property tax savings estimator for Southland Tax.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: Southland Tax
  * Update URI: https://github.com/christian01dev-shopify/property-tax-savings-estimator
  * Text Domain: southland-residential-calculator
@@ -13,7 +13,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'SRC_VERSION', '1.0.2' );
+define( 'SRC_VERSION', '1.0.3' );
 define( 'SRC_PLUGIN_FILE', __FILE__ );
 define( 'SRC_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'SRC_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
